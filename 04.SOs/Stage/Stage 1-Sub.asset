@@ -1,0 +1,1206 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bac8ceaf5e86fb54a8772b3c8a0c5400, type: 3}
+  m_Name: Stage 1-Sub
+  m_EditorClassIdentifier: 
+  stageName: "\uBC18\uACBD \uCDA9\uACA91"
+  sceneName: Stage 1-1
+  stageData:
+    StageKey: 4
+    DependencyKey: 2
+  cellPlacements:
+  - id: 0
+    cost: 1
+    coord: {x: 3, y: 2}
+    position: {x: 7, y: 0, z: 5}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 2, y: 2}
+    position: {x: 5, y: 0, z: 5}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 1, y: 2}
+    position: {x: 3, y: 0, z: 5}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 0, y: 2}
+    position: {x: 1, y: 0, z: 5}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 4, y: 2}
+    position: {x: 9, y: 0, z: 5}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 4, y: 1}
+    position: {x: 9, y: 0, z: 3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 4, y: 0}
+    position: {x: 9, y: 0, z: 1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 3, y: 1}
+    position: {x: 7, y: 0, z: 3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 2, y: 1}
+    position: {x: 5, y: 0, z: 3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 1, y: 1}
+    position: {x: 3, y: 0, z: 3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 0, y: 1}
+    position: {x: 1, y: 0, z: 3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -1, y: 1}
+    position: {x: -1, y: 0, z: 3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -2, y: 0}
+    position: {x: -3, y: 0, z: 1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -1, y: 0}
+    position: {x: -1, y: 0, z: 1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 0, y: 0}
+    position: {x: 1, y: 0, z: 1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 1, y: 0}
+    position: {x: 3, y: 0, z: 1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 2, y: 0}
+    position: {x: 5, y: 0, z: 1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 3, y: 0}
+    position: {x: 7, y: 0, z: 1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 3, y: -1}
+    position: {x: 7, y: 0, z: -1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 4, y: -1}
+    position: {x: 9, y: 0, z: -1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 4, y: -2}
+    position: {x: 9, y: 0, z: -3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 3, y: -2}
+    position: {x: 7, y: 0, z: -3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 2, y: -2}
+    position: {x: 5, y: 0, z: -3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 1, y: -2}
+    position: {x: 3, y: 0, z: -3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 0, y: -1}
+    position: {x: 1, y: 0, z: -1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -1, y: -1}
+    position: {x: -1, y: 0, z: -1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -2, y: -1}
+    position: {x: -3, y: 0, z: -1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 1, y: -1}
+    position: {x: 3, y: 0, z: -1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 2, y: -1}
+    position: {x: 5, y: 0, z: -1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 0, y: -2}
+    position: {x: 1, y: 0, z: -3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -1, y: -2}
+    position: {x: -1, y: 0, z: -3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -2, y: -2}
+    position: {x: -3, y: 0, z: -3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -3, y: -2}
+    position: {x: -5, y: 0, z: -3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -3, y: -1}
+    position: {x: -5, y: 0, z: -1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -2, y: 1}
+    position: {x: -3, y: 0, z: 3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -1, y: 2}
+    position: {x: -1, y: 0, z: 5}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -3, y: 1}
+    position: {x: -5, y: 0, z: 3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -3, y: 0}
+    position: {x: -5, y: 0, z: 1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -2, y: 2}
+    position: {x: -3, y: 0, z: 5}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -3, y: 2}
+    position: {x: -5, y: 0, z: 5}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 1, y: -3}
+    position: {x: 3, y: 0, z: -5}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 2, y: -3}
+    position: {x: 5, y: 0, z: -5}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 3, y: -3}
+    position: {x: 7, y: 0, z: -5}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 4, y: -3}
+    position: {x: 9, y: 0, z: -5}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 5, y: -3}
+    position: {x: 11, y: 0, z: -5}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 5, y: -2}
+    position: {x: 11, y: 0, z: -3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 5, y: -1}
+    position: {x: 11, y: 0, z: -1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 5, y: 0}
+    position: {x: 11, y: 0, z: 1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 5, y: 1}
+    position: {x: 11, y: 0, z: 3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 5, y: 2}
+    position: {x: 11, y: 0, z: 5}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 5, y: 3}
+    position: {x: 11, y: 0, z: 7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 4, y: 3}
+    position: {x: 9, y: 0, z: 7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 3, y: 3}
+    position: {x: 7, y: 0, z: 7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 2, y: 3}
+    position: {x: 5, y: 0, z: 7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 1, y: 3}
+    position: {x: 3, y: 0, z: 7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 0, y: 3}
+    position: {x: 1, y: 0, z: 7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -1, y: 3}
+    position: {x: -1, y: 0, z: 7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -2, y: 3}
+    position: {x: -3, y: 0, z: 7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -3, y: 3}
+    position: {x: -5, y: 0, z: 7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -4, y: 3}
+    position: {x: -7, y: 0, z: 7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -4, y: 2}
+    position: {x: -7, y: 0, z: 5}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -4, y: 1}
+    position: {x: -7, y: 0, z: 3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -4, y: -2}
+    position: {x: -7, y: 0, z: -3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -4, y: -1}
+    position: {x: -7, y: 0, z: -1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -4, y: 0}
+    position: {x: -7, y: 0, z: 1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -4, y: -3}
+    position: {x: -7, y: 0, z: -5}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -4, y: -4}
+    position: {x: -7, y: 0, z: -7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -3, y: -4}
+    position: {x: -5, y: 0, z: -7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -2, y: -4}
+    position: {x: -3, y: 0, z: -7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -1, y: -4}
+    position: {x: -1, y: 0, z: -7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 0, y: -4}
+    position: {x: 1, y: 0, z: -7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 1, y: -4}
+    position: {x: 3, y: 0, z: -7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 2, y: -4}
+    position: {x: 5, y: 0, z: -7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 3, y: -4}
+    position: {x: 7, y: 0, z: -7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 4, y: -4}
+    position: {x: 9, y: 0, z: -7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 5, y: -4}
+    position: {x: 11, y: 0, z: -7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -4, y: -5}
+    position: {x: -7, y: 0, z: -9}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -2, y: -5}
+    position: {x: -3, y: 0, z: -9}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -1, y: -5}
+    position: {x: -1, y: 0, z: -9}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 5, y: -5}
+    position: {x: 11, y: 0, z: -9}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 4, y: -5}
+    position: {x: 9, y: 0, z: -9}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 3, y: -5}
+    position: {x: 7, y: 0, z: -9}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 2, y: -5}
+    position: {x: 5, y: 0, z: -9}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 6, y: 3}
+    position: {x: 13, y: 0, z: 7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 6, y: 2}
+    position: {x: 13, y: 0, z: 5}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 6, y: 1}
+    position: {x: 13, y: 0, z: 3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 6, y: 0}
+    position: {x: 13, y: 0, z: 1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 6, y: -1}
+    position: {x: 13, y: 0, z: -1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 6, y: -2}
+    position: {x: 13, y: 0, z: -3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 6, y: -3}
+    position: {x: 13, y: 0, z: -5}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 6, y: -4}
+    position: {x: 13, y: 0, z: -7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 6, y: -5}
+    position: {x: 13, y: 0, z: -9}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -5, y: 3}
+    position: {x: -9, y: 0, z: 7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -5, y: 2}
+    position: {x: -9, y: 0, z: 5}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -5, y: 1}
+    position: {x: -9, y: 0, z: 3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -5, y: 0}
+    position: {x: -9, y: 0, z: 1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -5, y: -1}
+    position: {x: -9, y: 0, z: -1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -5, y: -2}
+    position: {x: -9, y: 0, z: -3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -5, y: -3}
+    position: {x: -9, y: 0, z: -5}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -5, y: -4}
+    position: {x: -9, y: 0, z: -7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -5, y: -5}
+    position: {x: -9, y: 0, z: -9}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -6, y: 3}
+    position: {x: -11, y: 0, z: 7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -6, y: 2}
+    position: {x: -11, y: 0, z: 5}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -6, y: 1}
+    position: {x: -11, y: 0, z: 3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -6, y: 0}
+    position: {x: -11, y: 0, z: 1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -6, y: -1}
+    position: {x: -11, y: 0, z: -1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -6, y: -2}
+    position: {x: -11, y: 0, z: -3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -6, y: -3}
+    position: {x: -11, y: 0, z: -5}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -6, y: -4}
+    position: {x: -11, y: 0, z: -7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -6, y: -5}
+    position: {x: -11, y: 0, z: -9}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -6, y: 4}
+    position: {x: -11, y: 0, z: 9}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -4, y: 4}
+    position: {x: -7, y: 0, z: 9}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -3, y: 4}
+    position: {x: -5, y: 0, z: 9}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -2, y: 4}
+    position: {x: -3, y: 0, z: 9}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -1, y: 4}
+    position: {x: -1, y: 0, z: 9}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 0, y: 4}
+    position: {x: 1, y: 0, z: 9}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 1, y: 4}
+    position: {x: 3, y: 0, z: 9}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 2, y: 4}
+    position: {x: 5, y: 0, z: 9}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 3, y: 4}
+    position: {x: 7, y: 0, z: 9}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 4, y: 4}
+    position: {x: 9, y: 0, z: 9}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 5, y: 4}
+    position: {x: 11, y: 0, z: 9}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 6, y: 4}
+    position: {x: 13, y: 0, z: 9}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 2, y: -6}
+    position: {x: 5, y: 0, z: -11}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 3, y: -6}
+    position: {x: 7, y: 0, z: -11}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 4, y: -6}
+    position: {x: 9, y: 0, z: -11}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 5, y: -6}
+    position: {x: 11, y: 0, z: -11}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 6, y: -6}
+    position: {x: 13, y: 0, z: -11}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 6, y: 5}
+    position: {x: 13, y: 0, z: 11}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 5, y: 5}
+    position: {x: 11, y: 0, z: 11}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 4, y: 5}
+    position: {x: 9, y: 0, z: 11}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 3, y: 5}
+    position: {x: 7, y: 0, z: 11}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 2, y: 5}
+    position: {x: 5, y: 0, z: 11}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 1, y: 5}
+    position: {x: 3, y: 0, z: 11}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 0, y: 5}
+    position: {x: 1, y: 0, z: 11}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -1, y: 5}
+    position: {x: -1, y: 0, z: 11}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -2, y: 5}
+    position: {x: -3, y: 0, z: 11}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -3, y: 5}
+    position: {x: -5, y: 0, z: 11}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -4, y: 5}
+    position: {x: -7, y: 0, z: 11}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -6, y: 5}
+    position: {x: -11, y: 0, z: 11}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -6, y: 7}
+    position: {x: -11, y: 0, z: 15}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -5, y: 7}
+    position: {x: -9, y: 0, z: 15}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -4, y: 7}
+    position: {x: -7, y: 0, z: 15}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 3, y: 7}
+    position: {x: 7, y: 0, z: 15}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 4, y: 7}
+    position: {x: 9, y: 0, z: 15}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 5, y: 7}
+    position: {x: 11, y: 0, z: 15}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 5, y: 6}
+    position: {x: 11, y: 0, z: 13}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 4, y: 6}
+    position: {x: 9, y: 0, z: 13}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 3, y: 6}
+    position: {x: 7, y: 0, z: 13}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -4, y: 6}
+    position: {x: -7, y: 0, z: 13}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -5, y: 6}
+    position: {x: -9, y: 0, z: 13}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: -6, y: 6}
+    position: {x: -11, y: 0, z: 13}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 7, y: -6}
+    position: {x: 15, y: 0, z: -11}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 7, y: -5}
+    position: {x: 15, y: 0, z: -9}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 7, y: -4}
+    position: {x: 15, y: 0, z: -7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 7, y: -3}
+    position: {x: 15, y: 0, z: -5}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 7, y: -2}
+    position: {x: 15, y: 0, z: -3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 7, y: -1}
+    position: {x: 15, y: 0, z: -1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 7, y: 0}
+    position: {x: 15, y: 0, z: 1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 7, y: 1}
+    position: {x: 15, y: 0, z: 3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 7, y: 2}
+    position: {x: 15, y: 0, z: 5}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 7, y: 3}
+    position: {x: 15, y: 0, z: 7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 7, y: 4}
+    position: {x: 15, y: 0, z: 9}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 7, y: 5}
+    position: {x: 15, y: 0, z: 11}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 9, y: 5}
+    position: {x: 19, y: 0, z: 11}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 8, y: 5}
+    position: {x: 17, y: 0, z: 11}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 8, y: 4}
+    position: {x: 17, y: 0, z: 9}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 9, y: 4}
+    position: {x: 19, y: 0, z: 9}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 9, y: 3}
+    position: {x: 19, y: 0, z: 7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 8, y: 3}
+    position: {x: 17, y: 0, z: 7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 8, y: 2}
+    position: {x: 17, y: 0, z: 5}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 9, y: 2}
+    position: {x: 19, y: 0, z: 5}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 9, y: 1}
+    position: {x: 19, y: 0, z: 3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 8, y: 1}
+    position: {x: 17, y: 0, z: 3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 8, y: 0}
+    position: {x: 17, y: 0, z: 1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 9, y: 0}
+    position: {x: 19, y: 0, z: 1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 9, y: -1}
+    position: {x: 19, y: 0, z: -1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 8, y: -1}
+    position: {x: 17, y: 0, z: -1}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 8, y: -2}
+    position: {x: 17, y: 0, z: -3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 9, y: -2}
+    position: {x: 19, y: 0, z: -3}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 9, y: -3}
+    position: {x: 19, y: 0, z: -5}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 8, y: -3}
+    position: {x: 17, y: 0, z: -5}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 8, y: -4}
+    position: {x: 17, y: 0, z: -7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 9, y: -4}
+    position: {x: 19, y: 0, z: -7}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 9, y: -5}
+    position: {x: 19, y: 0, z: -9}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 8, y: -5}
+    position: {x: 17, y: 0, z: -9}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 8, y: -6}
+    position: {x: 17, y: 0, z: -11}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  - id: 0
+    cost: 1
+    coord: {x: 9, y: -6}
+    position: {x: 19, y: 0, z: -11}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  obstaclePlacements:
+  - id: 0
+    cost: -1
+    coord: {x: 0, y: -2}
+    position: {x: 1, y: 0, z: -3}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - id: 0
+    cost: -1
+    coord: {x: -6, y: -1}
+    position: {x: -11, y: 0, z: -1}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - id: 0
+    cost: -1
+    coord: {x: -6, y: -2}
+    position: {x: -11, y: 0, z: -3}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - id: 0
+    cost: -1
+    coord: {x: -2, y: 5}
+    position: {x: -3, y: 0, z: 11}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - id: 1
+    cost: 1
+    coord: {x: 1, y: -3}
+    position: {x: 3, y: 0, z: -5}
+    rotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
+  - id: 1
+    cost: 1
+    coord: {x: -1, y: 1}
+    position: {x: -1, y: 0, z: 3}
+    rotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
+  - id: 1
+    cost: 1
+    coord: {x: 1, y: 0}
+    position: {x: 3, y: 0, z: 1}
+    rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+  - id: 1
+    cost: 1
+    coord: {x: 3, y: 2}
+    position: {x: 7, y: 0, z: 5}
+    rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+  - id: 1
+    cost: 1
+    coord: {x: 6, y: -6}
+    position: {x: 13, y: 0, z: -11}
+    rotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
+  - id: 1
+    cost: 1
+    coord: {x: 6, y: -5}
+    position: {x: 13, y: 0, z: -9}
+    rotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
+  - id: 1
+    cost: 1
+    coord: {x: 6, y: -4}
+    position: {x: 13, y: 0, z: -7}
+    rotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
+  - id: 1
+    cost: 1
+    coord: {x: 6, y: -3}
+    position: {x: 13, y: 0, z: -5}
+    rotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
+  - id: 1
+    cost: 1
+    coord: {x: 6, y: -2}
+    position: {x: 13, y: 0, z: -3}
+    rotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
+  - id: 1
+    cost: 1
+    coord: {x: 6, y: 4}
+    position: {x: 13, y: 0, z: 9}
+    rotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
+  - id: 1
+    cost: 1
+    coord: {x: 6, y: 5}
+    position: {x: 13, y: 0, z: 11}
+    rotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
+  - id: 3
+    cost: -1
+    coord: {x: 2, y: -6}
+    position: {x: 5, y: 0, z: -11}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - id: 2
+    cost: 1
+    coord: {x: -2, y: -4}
+    position: {x: -3, y: 0, z: -7}
+    rotation: {x: 0, y: 0.7071068, z: 0, w: -0.7071068}
+  - id: 2
+    cost: 1
+    coord: {x: -4, y: 1}
+    position: {x: -7, y: 0, z: 3}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - id: 2
+    cost: 1
+    coord: {x: -3, y: 1}
+    position: {x: -5, y: 0, z: 3}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - id: 2
+    cost: 1
+    coord: {x: -2, y: 1}
+    position: {x: -3, y: 0, z: 3}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - id: 5
+    cost: -1
+    coord: {x: 1, y: -1}
+    position: {x: 3, y: 0, z: -1}
+    rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+  - id: 3
+    cost: -1
+    coord: {x: 1, y: -2}
+    position: {x: 3, y: 0, z: -3}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - id: 6
+    cost: -1
+    coord: {x: 0, y: 2}
+    position: {x: 1, y: 0, z: 5}
+    rotation: {x: 0, y: 0.7071068, z: 0, w: -0.7071068}
+  - id: 4
+    cost: -1
+    coord: {x: -6, y: 4}
+    position: {x: -11, y: 0, z: 9}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - id: 0
+    cost: -1
+    coord: {x: 3, y: 3}
+    position: {x: 7, y: 0, z: 7}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - id: 3
+    cost: -1
+    coord: {x: 2, y: 3}
+    position: {x: 5, y: 0, z: 7}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - id: 5
+    cost: -1
+    coord: {x: 3, y: 4}
+    position: {x: 7, y: 0, z: 9}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - id: 4
+    cost: -1
+    coord: {x: 2, y: 4}
+    position: {x: 5, y: 0, z: 9}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  obstacleAreas:
+  - obstacleIndex: 0
+    areaCoord:
+    - {x: 0, y: -2}
+  - obstacleIndex: 1
+    areaCoord:
+    - {x: -6, y: -1}
+  - obstacleIndex: 2
+    areaCoord:
+    - {x: -6, y: -2}
+  - obstacleIndex: 3
+    areaCoord:
+    - {x: -2, y: 5}
+  - obstacleIndex: 4
+    areaCoord:
+    - {x: 1, y: -3}
+  - obstacleIndex: 5
+    areaCoord:
+    - {x: -1, y: 1}
+  - obstacleIndex: 6
+    areaCoord:
+    - {x: 1, y: 0}
+  - obstacleIndex: 7
+    areaCoord:
+    - {x: 3, y: 2}
+  - obstacleIndex: 8
+    areaCoord:
+    - {x: 6, y: -6}
+  - obstacleIndex: 9
+    areaCoord:
+    - {x: 6, y: -5}
+  - obstacleIndex: 10
+    areaCoord:
+    - {x: 6, y: -4}
+  - obstacleIndex: 11
+    areaCoord:
+    - {x: 6, y: -3}
+  - obstacleIndex: 12
+    areaCoord:
+    - {x: 6, y: -2}
+  - obstacleIndex: 13
+    areaCoord:
+    - {x: 6, y: 4}
+  - obstacleIndex: 14
+    areaCoord:
+    - {x: 6, y: 5}
+  - obstacleIndex: 15
+    areaCoord:
+    - {x: 2, y: -6}
+  - obstacleIndex: 16
+    areaCoord:
+    - {x: -2, y: -4}
+  - obstacleIndex: 17
+    areaCoord:
+    - {x: -4, y: 1}
+  - obstacleIndex: 18
+    areaCoord:
+    - {x: -3, y: 1}
+  - obstacleIndex: 19
+    areaCoord:
+    - {x: -2, y: 1}
+  - obstacleIndex: 20
+    areaCoord:
+    - {x: 1, y: -1}
+  - obstacleIndex: 21
+    areaCoord:
+    - {x: 1, y: -2}
+  - obstacleIndex: 22
+    areaCoord:
+    - {x: 0, y: 2}
+    - {x: -1, y: 2}
+  - obstacleIndex: 23
+    areaCoord:
+    - {x: -6, y: 4}
+    - {x: -6, y: 5}
+  - obstacleIndex: 24
+    areaCoord:
+    - {x: 3, y: 3}
+  - obstacleIndex: 25
+    areaCoord:
+    - {x: 2, y: 3}
+  - obstacleIndex: 26
+    areaCoord:
+    - {x: 3, y: 4}
+  - obstacleIndex: 27
+    areaCoord:
+    - {x: 2, y: 4}
+    - {x: 2, y: 5}
+  winConditions: []
+  lostConditions: []
+  challengeGoals: []
+  rewardableFactories: []
+  stageDescription: "\uC704\uAE30\uB294 \uC5B8\uC81C\uB098 \uBC29\uC2EC\uD55C \uC21C\uAC04\uC5D0
+    \uCC3E\uC544\uC624\uB294 \uBC95."
+  recommendedLevel: 0
+  enemyUnitKeys: 73870100
+  enemyPlacements:
+  - unitKey: 100301
+    coord: {x: -5, y: 0}
+    level: 10
+    enemyType: 0
+  - unitKey: 100301
+    coord: {x: -5, y: 1}
+    level: 10
+    enemyType: 0
+  playerPlacements:
+  - coord: {x: 4, y: 1}
+    isPlaced: 1
+  - coord: {x: 4, y: 0}
+    isPlaced: 1
